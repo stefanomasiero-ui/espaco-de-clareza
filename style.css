@@ -117,6 +117,12 @@ footer{
         color: black;
     }
 }
+#copy{
+    font-size: 8px;
+    color: yellow;
+    margin: 5px;
+    padding: 5px;
+}
 @media(max-width: 768px){
     h1{
         font-size: 5rem;
