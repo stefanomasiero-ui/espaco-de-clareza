@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    align-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-image: url('imagens/T1.jpg');
+    background-position: center;
+    background-size: cover;
+    color: whitesmoke;
+}
+button{
+    width: 25%;
+    align-self: center;
+    padding: 1rem;
+    border: 2px solid white;
+    border-radius: 15px;
+    background: transparent;
+    color: White;
+    font-size: 1.5rem;
+}
+button:hover{
+    background: #00d303;
+    text-decoration: underline;
+}
+section{
+    height: 100vh;
+    background-image: url('imagens/T2.jpg');
+    background-position: center;
+    background-size: cover;
+    color: beige;
+    display: flex;
+    
+}
+h1{
+    font-family: "Tangerine", cursive;  
+    font-weight: 800; 
+    font-style: normal;
+    font-size: 8rem;
+    text-align: center;
+}
+p{
+    font-size: 1.5rem;
+}
+.menu{
+    text-align: center;
+    font-size: 15px;
+}
+.tarot{
+    flex-direction: column;
+    justify-content: space-around;
+    h1{
+        text-align: center;
+    }
+    p{
+        width: 30%;
+    }
+}
+.textos{
+        display: flex;
+        justify-content: space-around;
+}
+.como{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+strong{
+    animation: 0.5s;
+}
+strong:hover{
+    color: red;
+}
+.quem{
+    flex-direction: column;
+    h1{
+        text-align: center;
+        font-size: 100px;
+        margin-top: 6rem;
+    }
+    ul{
+        margin-top: 18rem;
+        margin-left: 10px;
+        font-size: 30px;
+    }
+}
+.depo{
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    h1{
+        animation: .5s;
+    }
+    h1:hover{
+        color: yellow;
+    }
+}
+footer{
+    background-image: url('imagens/T4.jpg');
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 15px;
+    button{
+        border: 2px solid black;
+        color: black;
+    }
+}
+@media(max-width: 768px){
+    h1{
+        font-size: 5rem;
+    }
+    p{
+        font-size: 1rem;
+    }
+    button{
+        padding: .5rem;
+        font-size: .7rem;
+    }
+    .quem ul{
+        margin-top: 2rem;
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ESPAÇO DE CLAREZA</title>
+</head>
+<body>
+    <header>
+        <div class="menu">
+            <h3>Espaço de Clareza</h3>
+            <p>Leitura com responsabilidade emocional.</p>
+        </div>
+        <h1>As vezes tudo o que a gente precisa é clareza.</h1>
+        <h2>O tarot como espaço de escuta, reflexão e entendimento - sem julgamentos e sem pressa.</h2>
+        <a href="https://wa.me/5514991277353?text=Olá!%20Tudo%20bem?%20Vi%20seu%20site%20sobre%20o%20Tarô%20e%20quero%20marcar%20uma%20consulta." target="_blank<p></p>"><button>Falar comigo no Whatsapp</button></a>
+    </header>
+    <main>
+        <section class="tarot">
+            <h1>Uma leitura que conversa com você!</h1>
+            <div class="textos">
+                <p>O tarô não decide por você. Ele revela caminhos, aponta padrões e ajuda a organizar aquilo que já está dentro.</p>
+                <p>As leituras são feitas com sensibilidade, respeito e atenção ao seu momento. É um espaço seguro para olhar para sentimentos, escolhas e processos - no seu tempo.</p>
+            </div>
+        </section>
+        <section class="como">
+            <h1>Como acontece as leituras?</h1>
+            <div>
+                <p>As leituras são individuais.</p>
+                <p>Podem abordar: <strong>Amor, Relações, Decisões, fazes da vida e questões emocionais.</strong></p>
+                <p>O foco é <strong>Clareza </strong>e não previsões engessadas.</p>          
+                <p>Tudo feito com Cuidado e Sigilo.</p> 
+            </div>
+            <h3>cada consulta é única, porque sua história é única.</h3>
+        </section>
+        <section class="quem">
+            <h1>Esse espaço é pra você se...</h1>
+            <ul>
+                <li>... está passando por um momento de dúvida.</li>
+                <li>... sente que precisa organizar sentimentos e pensamentos.</li>
+                <li>... quer entender melhor uma situação ou uma relação.</li>
+                <li>... busca uma conversa sincera e honesta.</li>
+            </ul>
+        </section>
+        <section class="depo">
+            <h3>O tarô não responde tudo</h3>
+            <h1>Mas te ajuda a fazer as perguntas certas.</h1>
+        </section>
+    </main>
+    <footer>
+        <h1>Vamos conversar?</h1>
+        <p>Se você sentiu que esse espaço fez sentido, me chame no Whatsapp!</p>
+        <a href="https://wa.me/5514991277353?text=Olá!%20Tudo%20bem?%20Vi%20seu%20site%20sobre%20o%20Tarô%20e%20quero%20marcar%20uma%20consulta."><button>Agendar leitura pelo Whatsapp</button></a>
+    </footer>
+</body>
+</html>
